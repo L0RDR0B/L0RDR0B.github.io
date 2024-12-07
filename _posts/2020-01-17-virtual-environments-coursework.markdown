@@ -2,7 +2,7 @@
 layout: post
 title:  "Virtual Environments Escape Room"
 date:   2020-01-17 12:00:00 +0000
-categories: jekyll update
+categories: coursework
 ---
 
 Virtual Reality Escape Room, created as coursework for our Fourth Year module Virtual Environments at UCL. Created in collaboration with Dabeer Mirza, Julia Ronneberger and Ruizhe "Ray" Zheng.
@@ -21,6 +21,8 @@ The four challenges are as follows:
 
 - Dabeer's Room: A virtual room, where the player must solve a Vigenère cipher script puzzle to unlock a safe, and provide the safe's hidden item to the wizard to complete.
 
-![Escape Room](../../../../../../img/VE_Escape_Room.png "The four trials of our Escape Room.")
+![Escape Room](../../../../../img/VE_Escape_Room.png "The four trials of our Escape Room.")
+
+aeiou
 
 [virtual-environments]: https://github.com/Doberman0/Virtual-Environments
