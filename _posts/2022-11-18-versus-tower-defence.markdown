@@ -12,6 +12,8 @@ permalink: "/:categories/iggi-tower-defence"
 
 Versus Tower Defence is a two-player versus game created as part of the Game Development 1 training module during the first year of my PhD research at the EPSRC CDT for Intelligent Games & Game Intelligence (iGGi).
 
+The game demo was conceptualised, prototyped, programmed and playtested within the two weeks of the module. Created in collaboration with Steph Carter, a fellow iGGi PhD student at the University of York. This was programmed in C# within Unity.
+
 The game takes the simple concept of the Tower Defence genre, with a twist - now, rather than the player fighting against a horde of enemy waves, they are fighting against another player, and control both the towers and the enemies! The objective is to destroy the opponent's base before they can do the same to you.
 
 ![Level1](../img/Tower_Defence_2.png "An overview of the game's layout on the first level.")

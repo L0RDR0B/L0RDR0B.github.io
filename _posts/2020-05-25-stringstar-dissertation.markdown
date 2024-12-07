@@ -10,9 +10,9 @@ permalink: "/:categories/dissertation"
 
 [The full project, including the Dissertation itself and the readme instructions file, can be found on the GitHub Repository][dissertation]. The project was originally backed up on a Google Drive, however as of recent the final version has been pushed to GitHub for better ease of access.
 
-My dissertation project - a 3D Virtual Guitar Tutor demo that uses motion-captured hand animations with ManusVR Gloves in order to teach guitar players the ideal hand movements to play the associated chords and notes during song. The project overall scored 71%.
+My dissertation project - a 3D Virtual Guitar Tutor demo that uses motion-captured hand animations with ManusVR Gloves in order to teach guitar players the ideal hand movements to play the associated chords and notes during song. This was programmed in C# within Unity. The project overall scored 71%.
 
-The project itself is built around the concept of visual learning and mimickry. As someone who played the guitar growing up I often found it easier to copy my tutor's hand positions and finger movements when learning a new song, rather than solely reading the chord notations and sheet music - oftentimes, the more comfortable hand position differed from what the printed sheets recommended.
+The project itself is built around the concept of visual learning and mimickry when learning how to play a musical instrument. As someone who played the guitar growing up I often found it easier to copy my tutor's hand positions and finger movements when learning a new song, rather than solely reading the chord notations and sheet music - oftentimes, the more comfortable hand position differed from what the printed sheets recommended.
 
 This project functions similarly, in using motion-captured hand animations to demonstrate how to play the chords of the song. The user can adjust the tempo of the song, create checkpoints to loop between in order to rehearse certain sections better, or mute selective layers of the song (such as to play only along with the guitar, or to remove it to play instead with the rest of the song). As it is built upon the MIDI foundations and layers common within Guitar Hero (and its PC fan version, Clone Hero), there are a wide variety of popular songs that are compatible with StringStar.
 
