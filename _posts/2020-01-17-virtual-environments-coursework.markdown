@@ -13,14 +13,15 @@ This escape room takes the form of a four-levelled series of trials, where the p
 
 The four challenges are as follows:
 
-- (Julia's Room): An augmented reality room, where the player must extinguish a fire by activating a water pipe. This is done by weighing the correct-sized boxes onto a physical table, and then moving a physical pipe extension to align with the virtual pipes in order to complete the water flow.
+- Julia's Room: An augmented reality room, where the player must extinguish a fire by activating a water pipe. This is done by weighing the correct-sized boxes onto a physical table, and then moving a physical pipe extension to align with the virtual pipes in order to complete the water flow.
 
-- (Ray's Room): A virtual room, where the player must extinguish a pattern of fire pits in the style of Whac-A-Mole by blowing into the VR headset's mouthpiece.
+- Ray's Room: A virtual room, where the player must extinguish a pattern of fire pits in the style of Whac-A-Mole by blowing into the VR headset's mouthpiece.
 
-- (Toby's Room): A virtual room, where the player must solve an air pressure problem by turning the valves on the pipes to unlock a key, as a four-node binary calculator. There is a series of locks which are disabled depending upon the total pressure from the pipes
+- Toby's Room: A virtual room, where the player must solve an air pressure problem by turning the valves on the pipes to unlock a key, as a four-node binary calculator. There is a series of locks which are disabled depending upon the total pressure from the pipes
 
-- (Dabeer's Room): A virtual room, where the player must solve a Vigenère cipher script puzzle to unlock a safe, and provide the safe's hidden item to the wizard to complete.
+- Dabeer's Room: A virtual room, where the player must solve a Vigenère cipher script puzzle to unlock a safe, and provide the safe's hidden item to the wizard to complete.
 
-![The four trials of our Escape Room.](/img/VE_Escape_Room.png)
+![Escape Room](escape-room)
 
 [virtual-environments]: https://github.com/Doberman0/Virtual-Environments
+[escape-room]: /img/VE_Escape_Room.png "The four trials of our Escape Room."
