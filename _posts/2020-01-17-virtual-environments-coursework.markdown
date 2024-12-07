@@ -8,7 +8,7 @@ permalink: "/:categories/virtual-environments"
 
 [GitHub Repository][virtual-environments].
 
-Virtual Reality Escape Room, created as coursework for our Fourth Year module Virtual Environments at UCL. Created in collaboration with Dabeer Mirza, Julia Ronneberger and Ruizhe "Ray" Zheng.
+This is a Virtual Reality Escape Room, created as coursework for our Fourth Year module Virtual Environments at UCL. Created in collaboration with Dabeer Mirza, Julia Ronneberger and Ruizhe "Ray" Zheng. This was programmed in C# within Unity.
 
 This escape room takes the form of a four-levelled series of trials, where the player is being recruited by an all-powerful wizard (voicelines provided by me!) to become their next apprentice. The trials use a mixture of virtual and augmented reality, requiring some physical setup for certain rooms. The player is allowed to freely move around the room both physically and by teleporting.
 
