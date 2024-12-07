@@ -9,7 +9,8 @@ permalink: "/:categories/iggi-hades-of-state"
 ![gameplay](../img/Hades.png "An example screenshot of gameplay.")
 
 [The full project can be found on the GitHub Repository][hades].
-[The game is playable on itch.io here][itch].
+
+[The game is also playable on itch.io here][itch].
 
 Hades of State is a roguelike tech demo created as part of the Game Development 2 training module during the first year of my PhD research at the EPSRC CDT for Intelligent Games & Game Intelligence (iGGi).
 
