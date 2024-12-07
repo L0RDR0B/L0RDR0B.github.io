@@ -6,7 +6,7 @@ categories: coursework
 permalink: "/:categories/iggi-tower-defence"
 ---
 
-![Menu](../img/Tower_Defence1.png "The main menu of Versus Tower Defence.")
+![Menu](../img/Tower_Defence_1.png "The main menu of Versus Tower Defence.")
 
 [The full project can be found on the GitHub Repository][tower-defence].
 
@@ -25,6 +25,8 @@ Both towers and units cost Money to deploy. Money is earned steadily over time, 
 ![Level2](../img/Tower_Defence_3.png "An overview of the game's layout on the second level.")
 
 Two different map layouts were implemented. The first, a very basic layout, and the second, where the units cross back and forth into each others' territories as they progress.
+
+A video demonstration of the game in action is shown below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kKFXZtiydtI?si=41kYaJgvaFLgtVPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
