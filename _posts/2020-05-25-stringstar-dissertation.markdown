@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dissertation Project: StringStar - Generating 3D Hand Animations For Virtual Guitar Lessons"
+title:  "Dissertation: StringStar - Generating 3D Hand Animations For Virtual Guitar Lessons"
 date:   2020-05-25 12:00:00 +0000
 categories: coursework
 permalink: "/:categories/dissertation"

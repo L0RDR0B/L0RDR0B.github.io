@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Virtual Environments Escape Room"
+title:  "Virtual Environments: VR Escape Room"
 date:   2020-01-17 12:00:00 +0000
 categories: coursework
 permalink: "/:categories/virtual-environments"
 ---
 
-[GitHub Repository][virtual-environments].
+[The full project can be found on the GitHub Repository][virtual-environments].
 
 This is a Virtual Reality Escape Room, created as coursework for our Fourth Year module Virtual Environments at UCL. Created in collaboration with Dabeer Mirza, Julia Ronneberger and Ruizhe "Ray" Zheng. This was programmed in C# within Unity.
 
