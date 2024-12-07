@@ -28,6 +28,12 @@ twitter_username: L0RDR0B
 github_username:  L0RDR0B
 linkedin_username: tobybest1337
 
+defaults:
+  - scope:
+      path: "img"
+      values:
+        image: true
+
 # Build settings
 theme: minima
 plugins:
