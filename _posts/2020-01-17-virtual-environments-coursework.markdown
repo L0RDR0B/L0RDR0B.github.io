@@ -21,7 +21,7 @@ The four challenges are as follows:
 
 - Dabeer's Room: A virtual room, where the player must solve a Vigenère cipher script puzzle to unlock a safe, and provide the safe's hidden item to the wizard to complete.
 
-![Escape Room](escape-room)
+![Escape Room](../../../img/VE_Escape_Room.png "The four trials of our Escape Room.")
 
 [virtual-environments]: https://github.com/Doberman0/Virtual-Environments
-[escape-room]: /img/VE_Escape_Room.png "The four trials of our Escape Room."
+[escape-room]: 
