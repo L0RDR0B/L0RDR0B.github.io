@@ -29,7 +29,7 @@ linkedin_username: tobybest1337
 
 defaults:
   - scope:
-      path: "img"
+      path: "assets/img"
       values:
         image: true
 
