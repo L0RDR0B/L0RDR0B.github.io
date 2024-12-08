@@ -10,13 +10,23 @@ permalink: "/:categories/descent"
 
 [The full project can be found on the GitHub Repository][github].
 
-The 'D2e' virtual environment is an implementation of the tabletop fantasy board game "Descent: Journeys in the Dark (Second Edition)" within the [Tabletop Games Framework][tag].
+The 'D2e' virtual environment is an implementation of the tabletop fantasy board game "Descent: Journeys in the Dark (Second Edition)" within the [Tabletop Games Framework (TAG)][tag]. It was implemented as the focus of my overarching PhD research project 'Game Master AI for Tabletop Games'.
 
-It is the main focus of my research project [] BLAH BLAH BLAH []
+Descent is a fantasy dungeon-crawler board game for 2-to-5 players inspired by tabletop role-playing games such as Dungeons & Dragons. It takes the form of one-versus-many, where one player acts as the evil Overlord (a Game Master role) who controls a vast army of monsters to stand opposed to the other players acting as a team of Heroes. Play can take the form of an ongoing campaign or individual quests, with each quest having its own set of win conditions to determine whether the Heroes or the Overlord are victorious.
 
-![gameplay](../img/Descent_2.png "An example screenshot of gameplay.")
+The [full ruleset for Descent 2e][rules], as well as the [base game's campaign book 'Heirs of Blood'][heirs] are both available online.
 
+![gameplay](../img/Descent_2.png "An example screenshot of gameplay. The Heroes have defeated the Overlord.")
 
+The current implementation of Descent is that of the first quest, 'Acolyte of Saradyn', present within the base game campaign. Here, the Heroes are tasked with defeating all of the Barghest enemies (large wolf-like monsters) controlled by the Overlord, whilst the Overlord must infiltrate enough Goblin Archers to a specific area on the board to gain points. The Overlord wins if they acquire 7 points across their turns, or defeat all of the Heroes.
 
+As with all games within the Tabletop Games Framework, this can be played by human players, as well as AI-controlled players such as Random, One Step Look Ahead (OSLA), Monte Carlo Tree Search (MCTS) and Rolling Horizon Evolutionary Algorithms (RHEA), just to name a few implemented so far.
+
+An initial paper detailing its implementation and preliminary experiments and findings, as part of the Proceedings of the Twentieth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE 2024), is available below:
+
+<object data="../files/Journeys_in_the_Dark.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+[rules]: https://images-cdn.fantasyflightgames.com/ffg_content/descent-second-ed/support/DJ01_Rulebook_ENG.pdf
+[heirs]: https://kupdf.net/download/heirs-of-blood_5912ca4fdc0d60a36f959ecc_pdf
 [tag]: https://tabletopgames.ai/
 [github]: https://github.com/GAIGResearch/TabletopGames/tree/descent
