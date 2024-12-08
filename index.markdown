@@ -16,3 +16,5 @@ Words Words Words
 <pre>
         Gaze Upon My Work, Ye Mighty, And Despair
 </pre>
+
+{{ site.posts }}
