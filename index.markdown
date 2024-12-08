@@ -8,7 +8,7 @@ subtitle: Toby
 description: My Website
 ---
 
-![Toby](/assets/img/iGGi_Headshot.JPG "")
+![Toby](/assets/img/iGGi_Headshot.JPG)
 
 # ಠ_ಠ
 
