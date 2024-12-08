@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "D2e: A TAG Framework Implementation of Descent: Journeys in the Dark"
+date:   2024-06-21 12:00:00 +0000
+categories: tag
+permalink: "/:categories/descent"
+---
+
+![gameplay](../img/Descent_1.png "An example screenshot of gameplay.")
+
+[The full project can be found on the GitHub Repository][github].
+
+The 'D2e' virtual environment is an implementation of the tabletop fantasy board game "Descent: Journeys in the Dark (Second Edition)" within the [Tabletop Games Framework][tag].
+
+It is the main focus of my research project [] BLAH BLAH BLAH []
+
+![gameplay](../img/Descent_2.png "An example screenshot of gameplay.")
+
+
+
+[tag]: https://tabletopgames.ai/
+[github]: https://github.com/GAIGResearch/TabletopGames/tree/descent
