@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "iGGi Game Development 2: Hades of State"
 date:   2023-03-10 12:00:00 +0000
 categories: coursework

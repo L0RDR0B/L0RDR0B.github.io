@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "iGGi Game Jam 2024: See What Exists"
 date:   2024-01-12 12:00:00 +0000
 categories: gamejam
