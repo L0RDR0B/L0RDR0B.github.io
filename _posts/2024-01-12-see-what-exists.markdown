@@ -6,7 +6,7 @@ categories: gamejam
 permalink: "/:categories/iggi-see-what-exists"
 ---
 
-![gameplay](../img/See_What_Exists_1.png "The main menu of the game.")
+![gameplay](../assets/img/See_What_Exists_1.png "The main menu of the game.")
 
 [The full project can be found on the GitHub Repository][github].
 
@@ -20,7 +20,7 @@ The demo is of a very basic 2D exploration game, with the key mechanic being tha
 
 Due to the time limitation of the Game Jam to work on this, the game is not as refined as it could be. Additionally, I believe the uploaded demo on itch.io is an older, out-of-date version, and as such you might not actually be able to complete the first level.
 
-![gameplay](../img/See_What_Exists_2.png "An example screenshot of gameplay.")
+![gameplay](../assets/img/See_What_Exists_2.png "An example screenshot of gameplay.")
 
 
 

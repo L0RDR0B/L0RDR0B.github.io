@@ -6,7 +6,7 @@ categories: coursework
 permalink: "/:categories/iggi-hades-of-state"
 ---
 
-![gameplay](../img/Hades.png "An example screenshot of gameplay.")
+![gameplay](../assets/img/Hades.png "An example screenshot of gameplay.")
 
 [The full project can be found on the GitHub Repository][hades].
 

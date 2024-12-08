@@ -6,7 +6,7 @@ categories: gamejam
 permalink: "/:categories/iggi-pseudo-judo"
 ---
 
-![gameplay](../img/PseudoJudo_1.png "The main menu of the game.")
+![gameplay](../assets/img/PseudoJudo_1.png "The main menu of the game.")
 
 [The full project can be found on the GitHub Repository][github].
 
@@ -18,7 +18,7 @@ The game was conceptualised, prototyped, programmed and playtested within the tw
 
 The game is a very basic wrestling game, where the objective is to knock your opponent out of the ring to score points. However, due to the wonky physics of moving the characters' limbs individually (a feature that we purposefully leaned into given the time constraints), more often than not you might knock yourself out before them, so watch out!
 
-![gameplay](../img/PseudoJudo_2.png "An example screenshot of gameplay.")
+![gameplay](../assets/img/PseudoJudo_2.png "An example screenshot of gameplay.")
 
 [itch]: https://olliemakesgames.itch.io/psuedo-judo
 [github]: https://krellface.itch.io/psuedo-judo

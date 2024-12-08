@@ -14,7 +14,7 @@ This is a Virtual Reality Escape Room, created as coursework for our Fourth Year
 This escape room takes the form of a four-levelled series of trials, where the player is being recruited by an all-powerful wizard (voicelines provided by me!) to become their next apprentice. The trials use a mixture of virtual and augmented reality, requiring some physical setup for certain rooms. The player is allowed to freely move around the room both physically and by teleporting.
 {: .text-justify}
 
-![Escape Room](../img/VE_Escape_Room.png "The four trials of our Escape Room.")
+![Escape Room](../assets/img/VE_Escape_Room.png "The four trials of our Escape Room.")
 
 The four challenges are as follows:
 
