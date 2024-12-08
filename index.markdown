@@ -2,8 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
----
-layout: page
+layout: home
 title: Toby
 subtitle: Toby
 description: My Website
@@ -16,5 +15,3 @@ Words Words Words
 <pre>
         Gaze Upon My Work, Ye Mighty, And Despair
 </pre>
-
-{{ site.posts }}
