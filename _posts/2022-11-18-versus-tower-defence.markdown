@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "iGGi Game Development 1: Versus Tower Defence"
 date:   2022-11-18 12:00:00 +0000
 categories: coursework

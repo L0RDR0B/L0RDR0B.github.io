@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Virtual Environments: VR Escape Room"
 date:   2020-01-17 12:00:00 +0000
 categories: coursework

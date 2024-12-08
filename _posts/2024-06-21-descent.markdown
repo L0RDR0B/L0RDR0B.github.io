@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "D2e: A TAG Framework Implementation of Descent: Journeys in the Dark"
 date:   2024-06-21 12:00:00 +0000
 categories: tag

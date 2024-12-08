@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "iGGi Game Jam 2023: Pseudo-Judo"
 date:   2023-01-13 12:00:00 +0000
 categories: gamejam

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Dissertation: StringStar - Generating 3D Hand Animations For Virtual Guitar Lessons"
 date:   2020-05-25 12:00:00 +0000
 categories: coursework
