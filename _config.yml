@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Contact Details
+title: Toby Best, PhD Researcher
 email: t.j.best@qmul.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Feel free to reach out to me to discuss more about my research!
@@ -27,7 +27,6 @@ url: "l0rdr0b.github.io" # the base hostname & protocol for your site, e.g. http
 twitter_username: L0RDR0B
 github_username:  L0RDR0B
 linkedin_username: tobybest1337
-discord_username: L0RDR0B
 
 defaults:
   - scope:
