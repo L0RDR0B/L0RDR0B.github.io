@@ -6,9 +6,11 @@ layout: default
 
 <hr>
 
+## Portfolio
+
 {% for post in site.posts %}
     {% if page.url == post.url %}
-    <h3><li><a style=color:cyan; href="{{ post.url }}">{{ post.title }}</a></li></h3><br>
+    <h3><li><b><u><a href="{{ post.url }}">{{ post.title }}</a></u></b></li></h3><br>
     {% else %}
     <h3><li><a href="{{ post.url }}">{{ post.title }}</a></li></h3><br>
     {% endif %}
