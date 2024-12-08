@@ -8,7 +8,7 @@ subtitle: Toby
 description: My Website
 ---
 
-![Toby](/assets/img/iGGi_Headshot.JPG)
+![Toby][headshot]
 
 # ಠ_ಠ
 
@@ -18,3 +18,5 @@ aeiou
 <pre>
         Gaze Upon My Work, Ye Mighty, And Despair
 </pre>
+
+[headshot]: /assets/img/iGGi_Headshot.JPG
