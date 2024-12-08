@@ -22,7 +22,7 @@ title: Toby Best, PhD Researcher
 email: t.j.best@qmul.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "l0rdr0b.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: L0RDR0B
 github_username:  L0RDR0B
 linkedin_username: tobybest1337
