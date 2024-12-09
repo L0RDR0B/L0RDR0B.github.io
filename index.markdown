@@ -14,13 +14,14 @@ aeiou
 
 ## Publications
 
-- ["‘Journeys in the Dark’-Towards Game Master AI in Complex Board Games"][descent]
+- ["‘Journeys in the Dark’-Towards Game Master AI in Complex Board Games"][descent]\
 Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (2024)
 
-- ["Why Choose You? - Exploring Attitudes Towards Starter Pokémon"][whychooseyou]
+- ["Why Choose You? - Exploring Attitudes Towards Starter Pokémon"][whychooseyou] and its [accompanying poster][poster]\
 IFIP Conference on Human-Computer Interaction (2023)
 
 ## Portfolio
 
 [descent]: ../assets/files/Journeys_in_the_Dark.pdf
 [whychooseyou]: ../assets/files/Why_Choose_You.pdf
+[poster]: ../assets/file/Starter_Pokémon_Research_Poster.png
