@@ -3,16 +3,24 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Toby
-subtitle: Toby
-description: My Website
+title: Toby Best
+subtitle: Toby Best, PhD Researcher
+description: ಠ_ಠ
 ---
 
-# ಠ_ಠ
+# About
 
 aeiou
 
+## Publications
+
+- ["‘Journeys in the Dark’-Towards Game Master AI in Complex Board Games"][descent]
+Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (2024)
+
+- ["Why Choose You? - Exploring Attitudes Towards Starter Pokémon"][whychooseyou]
+IFIP Conference on Human-Computer Interaction (2023)
+
 ## Portfolio
-<pre>
-        Gaze Upon My Work, Ye Mighty, And Despair
-</pre>
+
+[descent]: ../assets/files/Journeys_in_the_Dark.pdf
+[whychooseyou]: ../assets/files/Why_Choose_You.pdf
