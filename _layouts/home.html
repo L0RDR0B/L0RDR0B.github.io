@@ -11,7 +11,31 @@ layout: default
     </script>
 </head>
 <body onload="showRandomNumber();">
-    <div id="myNumber"></div>
+    <div>
+        {% case myNumber %}
+            {% when 1 %}
+            Satsuki
+            {% when 2 %}
+            Mewtwo
+            {% when 3 %}
+            Iwata
+            {% when 4 %}
+            Death
+            {% when 5 %}
+            aeiou
+            {% when 6 %}
+            iunno
+            {% when 7 %}
+            football
+            {% when 8 %}
+            john madden
+            {% when 9 %}
+            pootis
+            {% when 10 %}
+            winner
+        {% endcase %}
+
+    </div>
 </body>
 
 
