@@ -28,4 +28,4 @@ IFIP Conference on Human-Computer Interaction (August 2023)
 
 [descent]: ../assets/files/Journeys_in_the_Dark.pdf
 [whychooseyou]: ../assets/files/Why_Choose_You.pdf
-[poster]: ../assets/file/Starter_Pokémon_Research_Poster.png
+[poster]: ../assets/files/Starter_Pokémon_Research_Poster.png
