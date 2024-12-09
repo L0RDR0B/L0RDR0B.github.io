@@ -12,13 +12,17 @@ description: ಠ_ಠ
 
 aeiou
 
+---
+
 ## Publications
 
 - ["‘Journeys in the Dark’-Towards Game Master AI in Complex Board Games"][descent]\
-Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (2024)
+Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (November 2024)
 
 - ["Why Choose You? - Exploring Attitudes Towards Starter Pokémon"][whychooseyou] and its [accompanying poster][poster]\
-IFIP Conference on Human-Computer Interaction (2023)
+IFIP Conference on Human-Computer Interaction (August 2023)
+
+---
 
 ## Portfolio
 
