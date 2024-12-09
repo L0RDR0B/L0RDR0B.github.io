@@ -2,6 +2,21 @@
 layout: default
 ---
 
+<head>
+<script src="https://randojs.com/1.0.0.js"></script>
+    <script>
+        function showRandomNumber(){
+            document.getElementById("myNumber").innerHTML = rando(1, 10, 1);
+        }
+    </script>
+</head>
+<body onload="showRandomNumber();">
+    <div id="myNumber"></div>
+</body>
+
+
+---
+
 <div style="text-align: center;">
 <img src="../assets/img/Headshot.png" width="220" height="330">
 </div>
