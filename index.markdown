@@ -5,24 +5,22 @@
 layout: home
 title: Toby Best
 subtitle: Toby Best, PhD Researcher
-description: This is my website. There are many like it, but this one is mine! :D
+description: This is my website. There are many like it, but this one is mine!
 ---
 
 ## About
 
-aeiou aeiou pootis
+Welcome to my website!
 
-Who I am
+My name is Toby. I'm a PhD researcher at Queen Mary's University of London, studying "Game Master AI for Tabletop Games" as part of [Intelligent Games & Game Intelligence (iGGi)][iggi]. Before that, I completed my MEng Mathematical Computation at University College London in 2020.
 
-What I've studied
-
-I completed my MEng Mathematical Computation at University College London in 2020.
-
-[Intelligent Games & Game Intelligence (iGGi)][iggi].
+I am an avid fan of tabletop role-playing games, and am especially fond of the communal creativity and improvised collaborative storytelling of roleplay.
 
 [You can learn more about my research on my iGGi page here][iggipage], or [with my iGGi Conference poster here][iggiposter].
 
 Below here on this website is my portfolio, of various projects, courseworks and game jams I have worked on over the years, as well as my publications and papers.
+
+Please, make yourself at home!
 
 ---
 
@@ -30,17 +28,17 @@ Below here on this website is my portfolio, of various projects, courseworks and
 
 [All publications are also available to view on my Google Scholar page][scholar].
 
-### - ["‘Journeys in the Dark’-Towards Game Master AI in Complex Board Games"][descent]\
+### - ["‘Journeys in the Dark’-Towards Game Master AI in Complex Board Games"][descent]
 Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (November 2024)
 
-### - ["Why Choose You? - Exploring Attitudes Towards Starter Pokémon"][whychooseyou] and its [accompanying poster][poster]\
+### - ["Why Choose You? - Exploring Attitudes Towards Starter Pokémon"][whychooseyou] and its [accompanying poster][poster]
 IFIP Conference on Human-Computer Interaction (August 2023)
 
 ---
 
 ## Portfolio
 
-[ggi]: https://www.iggi-phd.org
+[iggi]: https://www.iggi-phd.org
 [iggipage]: https://www.iggi-phd.org/people/toby-best
 [iggiposter]: ../assets/files/iGGi_Con_2024_Poster.png
 [scholar]: https://scholar.google.com/citations?user=IMVoLycAAAAJ
