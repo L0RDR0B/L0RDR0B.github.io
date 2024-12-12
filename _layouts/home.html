@@ -1,37 +1,6 @@
 ---
-layout: default
+layout: decor
 ---
-
-<script src="https://randojs.com/1.0.0.js"></script>
-<script>
-    function textOfToday() {
-        var textOfTodayArray = [
-            '"Ask not the sparrow how the eagle soars."\n - Satsuki Kiryūin, Kill la Kill',
-            '"I see now that the circumstances of one\'s birth are irrelevant. It is what you do with the gift of life that determines who you are."\n - Mewtwo, Pokémon: The First Movie - Mewtwo Strikes Back',
-            '"On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer."\n - Satoru Iwata, Nintendo',
-            'HUMANS NEED FANTASY TO BE HUMAN. TO BE THE PLACE WHERE THE FALLING ANGEL MEETS THE RISING APE.\n - Death, Hogfather',
-            '"Stories of imagination tend to upset those without one."\n - Terry Pratchett',
-            '"It\'s not worth doing something unless someone, somewhere, would much rather you weren\'t doing it."\n - Terry Pratchett',
-            '"How do you want to do this?"\n - Matt Mercer, Critical Role'];
-        document.getElementById('randomQuote').innerHTML = textOfTodayArray[Math.floor(Math.random() * textOfTodayArray.length)];
-}
-</script>
-
-<style>
-    #randomQuote
-    {
-      font-size: 15px;
-      text-align:center;
-      font-style:italic;
-      font-family:verdana;
-    }
-</style>
-
-<body onload="textOfToday();">
-<div id="randomQuote"></div>
-</body>
-
-<hr>
 
 <div style="text-align: center;">
 <img src="../assets/img/Headshot.png" width="220" height="330">
@@ -43,13 +12,3 @@ layout: default
     <h3><li><a href="{{ post.url }}">{{ post.title }}</a></li></h3><br>
 
 {% endfor %}
-
-<hr>
-
-<div>
-    Contact me via:<br>
-        <a href="mailto:{{ site.email }}">Email - t.j.best@qmul.ac.uk</a><br>
-        <a href= "//github.com/{{ site.github_username }}">GitHub - L0RDR0B</a><br>
-        <a href= "https://linkedin.com/in/{{ site.linkedin_username }}/">LinkedIn - Toby Best</a><br>
-        <a href= "https://twitter.com/{{ site.twitter_username }}">Twitter - L0RDR0B</a><br>
-</div>
