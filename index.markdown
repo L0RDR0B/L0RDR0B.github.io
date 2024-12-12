@@ -14,7 +14,9 @@ Welcome to my website!
 
 My name is Toby. I'm a PhD researcher at Queen Mary's University of London, studying as part of [Intelligent Games & Game Intelligence (iGGi)][iggi]. Before that, I completed my MEng Mathematical Computation at University College London in 2020.
 
-Here on this website you can find my research project, my portfolio of various projects, courseworks and game jams I have worked on over the years, as well as my publications and papers.
+I am an avid fan of tabletop role-playing games, having been introduced to *Dungeons & Dragons 3.5e* during secondary school and started getting more seriously into *D&D 5e* during my time at university. I fell in love the collaborate aspects of the improvised narrative building and freeflow of the story, which is what led me to wanting to take my passions further into my research project with iGGi.
+
+Here on this website you can find out more about my research project, my coding portfolio of various projects, courseworks and game jams I have worked on over the years, as well as my publications and papers on my research.
 
 Please, make yourself at home!
 
