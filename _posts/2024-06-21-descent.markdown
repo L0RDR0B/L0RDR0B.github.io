@@ -6,6 +6,8 @@ categories: tag
 permalink: "/:categories/descent"
 ---
 
+<div style="text-align: justify">
+
 ![gameplay](../assets/img/Descent_1.png "An example screenshot of gameplay.")
 
 [The full project can be found on the GitHub Repository][github].
@@ -24,7 +26,11 @@ As with all games within the Tabletop Games Framework, this can be played by hum
 
 An initial paper detailing its implementation and preliminary experiments and findings, as part of the Proceedings of the Twentieth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE 2024), is available below:
 
-<object data="../assets/files/Journeys_in_the_Dark.pdf" width="620" height="1000" type='application/pdf'></object>
+</div>
+
+<div style="text-align: center">
+<object data="../assets/files/Journeys_in_the_Dark.pdf" width="1000" height="1000" type='application/pdf'></object>
+</div>
 
 [rules]: https://images-cdn.fantasyflightgames.com/ffg_content/descent-second-ed/support/DJ01_Rulebook_ENG.pdf
 [heirs]: https://kupdf.net/download/heirs-of-blood_5912ca4fdc0d60a36f959ecc_pdf
