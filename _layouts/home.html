@@ -2,7 +2,19 @@
 layout: default
 ---
 
+<script src="https://randojs.com/1.0.0.js"></script>
+<script>
+    function textOfToday() {
+        var textOfTodayArray = ['String 1', 'String 2', 'String 3', 'String 4'];
+        document.getElementById('randomTitle').innerHTML = textOfTodayArray[Math.floor(Math.random() * textOfTodayArray.length)];
+}
+</script>
+
 <hr>
+
+<body onload="textOfToday();">
+<div id="randomTitle"></div>
+</body>
 
 <div style="text-align: center;">
 <img src="../assets/img/Headshot.png" width="220" height="330">
