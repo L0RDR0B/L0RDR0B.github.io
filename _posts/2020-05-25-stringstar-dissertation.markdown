@@ -22,4 +22,6 @@ Unfortunately the project (as well as my final year of study) was disrupted by t
 
 If the opportunity ever presents itself, where I have enough time and full access to the resources for recording further motion-captured animations (with a more professional guitarist than I!), I would like to one day return to this project and fulfil its potential. For now, I am proud of this project, warts and all.
 
+<object data="../assets/files/Dissertation.pdf" width="620" height="1000" type='application/pdf'></object>
+
 [dissertation]: https://github.com/L0RDR0B/stringstar
