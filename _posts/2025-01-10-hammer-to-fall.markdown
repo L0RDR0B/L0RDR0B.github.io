@@ -10,7 +10,7 @@ permalink: "/:categories/iggi-hammer-to-fall"
 
 [The full project can be found on the GitHub Repository][github].
 
-[We do have an itch.io page for the Jam's submission, however this only redirects to the GitHub download and is not available to play directly on itch.][itch].
+[We do have an itch.io page for the Jam's submission, however this only redirects to the GitHub download and is not available to play directly on itch][itch].
 
 Hammer To Fall is a short single-player Virtual Reality game created as part of the annual iGGi Game Jam, hosted by the EPSRC CDT for Intelligent Games & Game Intelligence (iGGi).
 
