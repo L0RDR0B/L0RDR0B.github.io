@@ -3,7 +3,7 @@ layout: post
 title:  "7th International Summer School on Artificial Intelligence and Games Game Jam: Rulebreakers"
 date:   2025-06-26 12:00:00 +0000
 categories: gamejam
-permalink: "/:categories/summer-school-2025-rulebreakers/"
+permalink: "/:categories/summer-school-2025-rulebreakers"
 ---
 
 ![Gameplay](../assets/img/Rulebreakers_1.png "Gameplay screenshot of Rulebreakers.")
