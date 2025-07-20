@@ -16,7 +16,7 @@ The game was conceptualised, prototyped, programmed and playtested within the la
 
 The game pits two players in a Connect 4-style grid, where they take turns to place a token on the grid. However, each turn, players may choose to 'break' the rules, submitting a new 'Joker Rule' if they so wished to a Large Language Model (LLM) that restricts what spaces can or cannot be played for the rest of the game. We used the model GROQ for rules generation.
 
-![gameplay](../assets/img/Rulebreakers_2.png "Gameplay screenshot of the possible Win and Lose Conditions.")
+![rules](../assets/img/Rulebreakers_2.png "Gameplay screenshot of the possible Win and Lose Conditions.")
 
 Players may choose from a list of pre-determined conditions for winning or losing, such as placing tokens in a 4-In-A-Row orientation or in a Tetris L-Block orientation, or allow the game to randomly choose a win and lose condition from its list.
 
@@ -24,6 +24,6 @@ Despite our best efforts, sadly we ran out of time to fully implement and debug 
 
 Regardless, this game was a lot of fun to implement, and it was great to meet so many different people at the Summer School and work together!
 
-![gameplay](../assets/img/Rulebreakers_3.png "Photo of our paper prototype being demonstrated.")
+![prototype](../assets/img/Rulebreakers_3.png "Photo of our paper prototype being demonstrated.")
 
 [github]: https://github.com/GameAISchool2025members/RuleBreakers
