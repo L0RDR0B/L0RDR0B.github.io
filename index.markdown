@@ -38,11 +38,17 @@ IFIP Conference on Human-Computer Interaction (August 2023)
 
 ---
 
+## [CV][cv]
+Last Updated: 13th December 2024
+
+---
+
 ## Portfolio
 
 [iggi]: https://www.iggi-phd.org
 [research]: ../research_project
 [scholar]: https://scholar.google.com/citations?user=IMVoLycAAAAJ
+[cv]: ../assets/files/CV.pdf
 [descent]: ../assets/files/Journeys_in_the_Dark.pdf
 [whychooseyou]: ../assets/files/Why_Choose_You.pdf
 [poster]: ../assets/files/Starter_Pokémon_Research_Poster.png
