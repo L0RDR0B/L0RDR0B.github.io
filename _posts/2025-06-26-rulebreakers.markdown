@@ -12,7 +12,7 @@ permalink: "/:categories/summer-school-2025-rulebreakers"
 
 Rulebreakers is a two-player versus game created as part of the 7th International Summer School on Artificial Intelligence and Games, hosted at the University of Malmö in Sweden, across the week of the 23rd to 27th June.
 
-The game was conceptualised, prototyped, programmed and playtested within the last two days of the Summer School, which were dedicated for the Game Jam. Created in collaboration with Daniel Togelius, Muhammad Umair Nasir, Stefan Nordborg Eriksen and Weijie Huang, all fellow participants of the Summer School. This was programmed in Unity.
+The game was conceptualised, prototyped, programmed and playtested within the last two days of the Summer School, which were dedicated for the Game Jam. Created in collaboration with Daniel Togelius, Muhammad Umair Nasir, Stefan Nordborg Eriksen and Weijie Huang, all fellow participants of the Summer School. This was programmed in Unity. Most of the game's logic, user interface and appearance was implemented by myself, with the other members of the team handling the game's rules via paper prototyping and the interactions with the Large Language Model (LLM) that was required as part of the Game Jam's setup.
 
 The game pits two players in a Connect 4-style grid, where they take turns to place a token on the grid. However, each turn, players may choose to 'break' the rules, submitting a new 'Joker Rule' if they so wished to a Large Language Model (LLM) that restricts what spaces can or cannot be played for the rest of the game. We used the model GROQ for rules generation.
 
